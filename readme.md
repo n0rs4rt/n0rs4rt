@@ -55,22 +55,22 @@ También gestiono <b>ORS4TECH</b>, un espacio donde comparto contenido educativo
 
 <h2>Enfoque técnico</h2>
 
-<img src="https://img.shields.io/badge/Python-Automatizaci%C3%B3n-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://github.com/n0rs4rt/n0rs4rt/blob/aca6c443b76b4235c7333fadbda281f6e299da11/assets/python.svg" alt="Python" />
 <br><br>
 
-<img src="https://img.shields.io/badge/Sistemas-Utilidades%20t%C3%A9cnicas-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Sistemas" />
+<img src="https://github.com/n0rs4rt/n0rs4rt/blob/aca6c443b76b4235c7333fadbda281f6e299da11/assets/sistemas.svg" alt="Sistemas" />
 <br><br>
 
-<img src="https://img.shields.io/badge/Redes-Diagn%C3%B3stico%20y%20an%C3%A1lisis-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Redes" />
+<img src="https://github.com/n0rs4rt/n0rs4rt/blob/aca6c443b76b4235c7333fadbda281f6e299da11/assets/redes.svg" alt="Redes" />
 <br><br>
 
-<img src="https://img.shields.io/badge/OSINT-Investigaci%C3%B3n%20digital-DE5833?style=for-the-badge&logo=duckduckgo&logoColor=white" alt="OSINT" />
+<img src="https://github.com/n0rs4rt/n0rs4rt/blob/aca6c443b76b4235c7333fadbda281f6e299da11/assets/osint.svg" alt="OSINT" />
 <br><br>
 
-<img src="https://img.shields.io/badge/Seguridad-An%C3%A1lisis%20t%C3%A9cnico-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="Seguridad" />
+<img src="https://github.com/n0rs4rt/n0rs4rt/blob/aca6c443b76b4235c7333fadbda281f6e299da11/assets/seguridad.svg" alt="Seguridad" />
 <br><br>
 
-<img src="https://img.shields.io/badge/IT-Crecimiento%20profesional-111827?style=for-the-badge&logo=github&logoColor=white" alt="Crecimiento profesional" />
+<img src="https://github.com/n0rs4rt/n0rs4rt/blob/aca6c443b76b4235c7333fadbda281f6e299da11/assets/Infraestructura%20IT-Soporte%20y%20sistemas-111827.svg" alt="IT" />
 
 </td>
 </tr>
