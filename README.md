@@ -34,11 +34,11 @@
 <h2>Sobre mí</h2>
 
 <p>
-<b>Profesional en informática</b>, con experiencia práctica en <b>soporte técnico, hardware, software, redes, infraestructura IT, administración de sistemas en entornos Windows y resolución de incidencias técnicas</b>.
+<b>Profesional en informática</b>, con experiencia en <b>soporte técnico, hardware, software, redes, infraestructura IT, administración de sistemas en entornos Windows y resolución de incidencias técnicas</b>.
 </p>
 
 <p>
-Como parte de mi crecimiento técnico, desarrollo herramientas en <b>Python</b> orientadas a <b>automatización, análisis de información, utilidades de sistemas, redes, OSINT y seguridad informática</b>, aplicadas a escenarios reales del área IT.
+Como parte de mi crecimiento, desarrollo herramientas en <b>Python</b> orientadas a <b>automatización, análisis de información, utilidades de sistemas, redes, OSINT y seguridad informática</b>, aplicadas a escenarios reales del área IT.
 </p>
 
 <p>
