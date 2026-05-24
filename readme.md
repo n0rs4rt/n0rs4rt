@@ -127,35 +127,27 @@ También gestiono <b>ORS4TECH</b>, un espacio donde comparto contenido educativo
   </p>
 
   <a href="https://github.com/n0rs4rt/Ors4USBControl">
-    <img src="https://img.shields.io/badge/Ors4USBControl-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ors4USBControl" />
+    <img src="https://img.shields.io/badge/Ors4USBControl-0E7490?style=for-the-badge&logo=usb&logoColor=white" alt="Ors4USBControl" />
   </a>
 
   <a href="https://github.com/n0rs4rt/Ors4Ghost">
-    <img src="https://img.shields.io/badge/Ors4Ghost-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ors4Ghost" />
+    <img src="https://img.shields.io/badge/Ors4Ghost-0E7490?style=for-the-badge&logo=ghostery&logoColor=white" alt="Ors4Ghost" />
   </a>
 
   <a href="https://github.com/n0rs4rt/Ors4NavExpose">
-    <img src="https://img.shields.io/badge/Ors4NavExpose-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ors4NavExpose" />
+    <img src="https://img.shields.io/badge/Ors4NavExpose-0E7490?style=for-the-badge&logo=duckduckgo&logoColor=white" alt="Ors4NavExpose" />
   </a>
 
   <a href="https://github.com/n0rs4rt/ORS4NetScan">
-    <img src="https://img.shields.io/badge/ORS4NetScan-181717?style=for-the-badge&logo=github&logoColor=white" alt="ORS4NetScan" />
+    <img src="https://img.shields.io/badge/ORS4NetScan-0E7490?style=for-the-badge&logo=wireshark&logoColor=white" alt="ORS4NetScan" />
   </a>
 
   <a href="https://github.com/n0rs4rt/Ors4NetProfiles">
-    <img src="https://img.shields.io/badge/Ors4NetProfiles-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ors4NetProfiles" />
+    <img src="https://img.shields.io/badge/Ors4NetProfiles-0E7490?style=for-the-badge&logo=windows11&logoColor=white" alt="Ors4NetProfiles" />
   </a>
 
   <a href="https://github.com/n0rs4rt/Python_Guides">
-    <img src="https://img.shields.io/badge/Python_Guides-181717?style=for-the-badge&logo=github&logoColor=white" alt="Python_Guides" />
+    <img src="https://img.shields.io/badge/Python_Guides-0E7490?style=for-the-badge&logo=python&logoColor=white" alt="Python_Guides" />
   </a>
-  
+
 </div>
-
-### Ors4NetProfiles
-
-Herramienta para analizar, extraer credenciales y gestionar perfiles de red Wi-Fi almacenadas en el sistema.
-
-<a href="https://github.com/n0rs4rt/Ors4NetProfiles">
-  <img src="https://img.shields.io/badge/Ver%20repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositorio" />
-</a>
