@@ -122,8 +122,8 @@ También gestiono <b>ORS4TECH</b>, un espacio donde comparto contenido educativo
   <h2>Proyectos y herramientas</h2>
 
   <p>
-    Repositorios públicos con herramientas, scripts y proyectos desarrollados principalmente en Python,
-    orientados a sistemas, automatización, redes, análisis técnico y seguridad informática.
+    Repositorios públicos con herramientas, scripts y proyectos en constante evolución, desarrollados principalmente en Python
+    y orientados a sistemas, automatización, redes, análisis técnico y seguridad informática.
   </p>
 
   <a href="https://github.com/n0rs4rt/Ors4USBControl">
