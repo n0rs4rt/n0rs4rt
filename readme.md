@@ -92,7 +92,7 @@ También gestiono <b>ORS4TECH</b>, un espacio donde comparto contenido educativo
 
   <img src="https://img.shields.io/badge/CustomTkinter-Interfaces%20gr%C3%A1ficas-FFB000?style=for-the-badge" alt="CustomTkinter" />
 
-  <img src="https://img.shields.io/badge/JSON-Datos%20estructurados-111827?style=for-the-badge&logo=json&logoColor=white" alt="JSON" />
+  <img src="https://img.shields.io/badge/JSON-Datos%20estructurados-F59E0B?style=for-the-badge&logo=json&logoColor=white" alt="JSON" />
 
   <img src="https://img.shields.io/badge/CSV-Exportaci%C3%B3n%20de%20datos-15803D?style=for-the-badge" alt="CSV" />
 
