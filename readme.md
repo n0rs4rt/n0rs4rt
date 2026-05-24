@@ -117,41 +117,77 @@ También gestiono <b>ORS4TECH</b>, un espacio donde comparto contenido educativo
 <!--REPOSITORIOS -->
 
 
-<div align="center">
+<h2 align="center">Proyectos y herramientas</h2>
 
-  <h2>Proyectos y herramientas</h2>
+<p align="center">
+  Repositorios públicos donde comparto herramientas, scripts y proyectos desarrollados principalmente en Python,
+  orientados a sistemas, automatización, redes, análisis técnico y seguridad informática.
+</p>
 
-  <p>
-    Repositorios públicos donde comparto herramientas, scripts y proyectos desarrollados principalmente en Python,
-    orientados a sistemas, automatización, redes, análisis técnico y seguridad informática.
-  </p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Ors4USBControl</h3>
+      <p>
+        Herramienta para controlar y bloquear el acceso a dispositivos de almacenamiento USB y MTP en Windows con base de datos local de equipos.
+      </p>
+      <a href="https://github.com/n0rs4rt/Ors4USBControl">
+        <img src="https://img.shields.io/badge/Ver%20repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositorio" />
+      </a>
+    </td>
 
-  <a href="https://github.com/n0rs4rt/Ors4USBControl">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=n0rs4rt&repo=Ors4USBControl&theme=tokyonight&hide_border=true&border_radius=14" alt="Ors4USBControl" />
-  </a>
+    <td width="50%" valign="top">
+      <h3>Ors4Ghost</h3>
+      <p>
+        Oculta archivos y carpetas de forma estructurada, haciéndolos invisibles incluso con opciones estándar del sistema.
+      </p>
+      <a href="https://github.com/n0rs4rt/Ors4Ghost">
+        <img src="https://img.shields.io/badge/Ver%20repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositorio" />
+      </a>
+    </td>
+  </tr>
 
-  <a href="https://github.com/n0rs4rt/Ors4Ghost">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=n0rs4rt&repo=Ors4Ghost&theme=tokyonight&hide_border=true&border_radius=14" alt="Ors4Ghost" />
-  </a>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Ors4NavExpose</h3>
+      <p>
+        Herramienta de investigación orientada a la extracción y análisis automatizado de información generada en navegadores web, orientada a investigación y análisis OSINT.
+      </p>
+      <a href="https://github.com/n0rs4rt/Ors4NavExpose">
+        <img src="https://img.shields.io/badge/Ver%20repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositorio" />
+      </a>
+    </td>
 
-  <br><br>
+    <td width="50%" valign="top">
+      <h3>ORS4NetScan</h3>
+      <p>
+        Herramienta desarrollada en Python para escaneo de hosts, puertos y versiones. Consulta vulnerabilidades NSE, identifica fabricantes de MAC, muestra IP pública y obtiene la IP de un dominio.
+      </p>
+      <a href="https://github.com/n0rs4rt/ORS4NetScan">
+        <img src="https://img.shields.io/badge/Ver%20repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositorio" />
+      </a>
+    </td>
+  </tr>
 
-  <a href="https://github.com/n0rs4rt/ORS4NetScan">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=n0rs4rt&repo=ORS4NetScan&theme=tokyonight&hide_border=true&border_radius=14" alt="ORS4NetScan" />
-  </a>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Python_Guides</h3>
+      <p>
+        Guías tipo curso de Python desarrolladas por mí, orientadas completamente al mundo real. Pensadas para técnicos y administradores que necesitan aplicar Python en entornos IT.
+      </p>
+      <a href="https://github.com/n0rs4rt/Python_Guides">
+        <img src="https://img.shields.io/badge/Ver%20repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositorio" />
+      </a>
+    </td>
 
-  <a href="https://github.com/n0rs4rt/Ors4NavExpose">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=n0rs4rt&repo=Ors4NavExpose&theme=tokyonight&hide_border=true&border_radius=14" alt="Ors4NavExpose" />
-  </a>
-
-  <br><br>
-
-  <a href="https://github.com/n0rs4rt/ORS4PassExtract">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=n0rs4rt&repo=ORS4PassExtract&theme=tokyonight&hide_border=true&border_radius=14" alt="ORS4PassExtract" />
-  </a>
-
-  <a href="https://github.com/n0rs4rt/Python_Guides">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=n0rs4rt&repo=Python_Guides&theme=tokyonight&hide_border=true&border_radius=14" alt="Python_Guides" />
-  </a>
-
-</div>
+    <td width="50%" valign="top">
+      <h3>Ors4NetProfiles</h3>
+      <p>
+        Herramienta para analizar, extraer credenciales y gestionar perfiles de red Wi-Fi almacenadas en el sistema.
+      </p>
+      <a href="https://github.com/n0rs4rt/Ors4NetProfiles">
+        <img src="https://img.shields.io/badge/Ver%20repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositorio" />
+      </a>
+    </td>
+  </tr>
+</table>
