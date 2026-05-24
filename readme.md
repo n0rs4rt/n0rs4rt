@@ -113,3 +113,45 @@ También gestiono <b>ORS4TECH</b>, un espacio donde comparto contenido educativo
   <img src="https://img.shields.io/badge/GitHub-Repositorios%20y%20documentaci%C3%B3n-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 
 </div>
+
+<!--REPOSITORIOS -->
+
+
+<div align="center">
+
+  <h2>Proyectos y herramientas</h2>
+
+  <p>
+    Repositorios públicos donde comparto herramientas, scripts y proyectos desarrollados principalmente en Python,
+    orientados a sistemas, automatización, redes, análisis técnico y seguridad informática.
+  </p>
+
+  <a href="https://github.com/n0rs4rt/Ors4USBControl">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=n0rs4rt&repo=Ors4USBControl&theme=tokyonight&hide_border=true&border_radius=14" alt="Ors4USBControl" />
+  </a>
+
+  <a href="https://github.com/n0rs4rt/Ors4Ghost">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=n0rs4rt&repo=Ors4Ghost&theme=tokyonight&hide_border=true&border_radius=14" alt="Ors4Ghost" />
+  </a>
+
+  <br><br>
+
+  <a href="https://github.com/n0rs4rt/ORS4NetScan">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=n0rs4rt&repo=ORS4NetScan&theme=tokyonight&hide_border=true&border_radius=14" alt="ORS4NetScan" />
+  </a>
+
+  <a href="https://github.com/n0rs4rt/Ors4NavExpose">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=n0rs4rt&repo=Ors4NavExpose&theme=tokyonight&hide_border=true&border_radius=14" alt="Ors4NavExpose" />
+  </a>
+
+  <br><br>
+
+  <a href="https://github.com/n0rs4rt/ORS4PassExtract">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=n0rs4rt&repo=ORS4PassExtract&theme=tokyonight&hide_border=true&border_radius=14" alt="ORS4PassExtract" />
+  </a>
+
+  <a href="https://github.com/n0rs4rt/Python_Guides">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=n0rs4rt&repo=Python_Guides&theme=tokyonight&hide_border=true&border_radius=14" alt="Python_Guides" />
+  </a>
+
+</div>
