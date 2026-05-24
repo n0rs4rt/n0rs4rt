@@ -5,23 +5,23 @@
 <div align="center">
 
   <a href="https://github.com/n0rs4rt">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://github.com/n0rs4rt/n0rs4rt/blob/c60a96491f52bcf1328ca66daf97a2b41fe82974/assets/github.svg" alt="GitHub" />
   </a>
 
   <a href="https://www.linkedin.com/in/nelson-arteaga-orasma/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://github.com/n0rs4rt/n0rs4rt/blob/c60a96491f52bcf1328ca66daf97a2b41fe82974/assets/linkedin.svg" alt="LinkedIn" />
   </a>
 
   <a href="https://www.youtube.com/@Ors4tech">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+    <img src="https://github.com/n0rs4rt/n0rs4rt/blob/8b2cc89b3145c3eb70171d38e0e1deaad165ff5b/assets/youtube.svg" alt="YouTube" />
   </a>
 
   <a href="https://www.instagram.com/ors4tech">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://github.com/n0rs4rt/n0rs4rt/blob/59c0b85a950c9737dff14dfab088f612d0f76452/assets/instagram.svg" alt="Instagram" />
   </a>
 
   <a href="https://www.tiktok.com/@ors4tech">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+    <img src="https://github.com/n0rs4rt/n0rs4rt/blob/59c0b85a950c9737dff14dfab088f612d0f76452/assets/tiktok.svg" alt="TikTok" />
   </a>
 
 </div>
