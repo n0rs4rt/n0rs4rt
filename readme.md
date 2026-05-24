@@ -75,3 +75,41 @@ También gestiono <b>ORS4TECH</b>, un espacio donde comparto contenido educativo
 </td>
 </tr>
 </table>
+
+<!--  TECNOLOGIAS USADAS -->
+
+<div align="center">
+
+  <h2>Tecnologías presentes en mis proyectos</h2>
+
+  <p>
+    Lenguajes, herramientas, formatos y recursos que utilizo en mis proyectos personales, scripts y utilidades orientadas a sistemas, automatización y análisis técnico.
+  </p>
+
+  <img src="https://img.shields.io/badge/Python-Lenguaje%20principal-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+
+  <img src="https://img.shields.io/badge/SQLite-Bases%20de%20datos%20locales-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+
+  <img src="https://img.shields.io/badge/CustomTkinter-Interfaces%20gr%C3%A1ficas-FFB000?style=for-the-badge" alt="CustomTkinter" />
+
+  <img src="https://img.shields.io/badge/JSON-Datos%20estructurados-111827?style=for-the-badge&logo=json&logoColor=white" alt="JSON" />
+
+  <img src="https://img.shields.io/badge/CSV-Exportaci%C3%B3n%20de%20datos-15803D?style=for-the-badge" alt="CSV" />
+
+  <img src="https://img.shields.io/badge/PDF-Reportes%20t%C3%A9cnicos-B91C1C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="PDF" />
+
+  <img src="https://img.shields.io/badge/PowerShell%20%2F%20CMD-Integraci%C3%B3n%20Windows-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell CMD" />
+
+  <img src="https://img.shields.io/badge/Registro%20Windows-Configuraci%C3%B3n%20del%20sistema-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Registro Windows" />
+
+  <img src="https://img.shields.io/badge/Pandas-An%C3%A1lisis%20de%20datos-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+
+  <img src="https://img.shields.io/badge/APIs-Integraci%C3%B3n%20y%20automatizaci%C3%B3n-0F766E?style=for-the-badge" alt="APIs" />
+
+  <img src="https://img.shields.io/badge/Hashing%20%26%20Crypto-Seguridad%20de%20datos-721412?style=for-the-badge&logo=openssl&logoColor=white" alt="Hashing y criptografía" />
+
+  <img src="https://img.shields.io/badge/Git-Control%20de%20versiones-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+
+  <img src="https://img.shields.io/badge/GitHub-Repositorios%20y%20documentaci%C3%B3n-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+
+</div>
