@@ -124,70 +124,62 @@ También gestiono <b>ORS4TECH</b>, un espacio donde comparto contenido educativo
   orientados a sistemas, automatización, redes, análisis técnico y seguridad informática.
 </p>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Ors4USBControl</h3>
-      <p>
-        Herramienta para controlar y bloquear el acceso a dispositivos de almacenamiento USB y MTP en Windows con base de datos local de equipos.
-      </p>
-      <a href="https://github.com/n0rs4rt/Ors4USBControl">
-        <img src="https://img.shields.io/badge/Ver%20repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositorio" />
-      </a>
-    </td>
+---
 
-    <td width="50%" valign="top">
-      <h3>Ors4Ghost</h3>
-      <p>
-        Oculta archivos y carpetas de forma estructurada, haciéndolos invisibles incluso con opciones estándar del sistema.
-      </p>
-      <a href="https://github.com/n0rs4rt/Ors4Ghost">
-        <img src="https://img.shields.io/badge/Ver%20repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositorio" />
-      </a>
-    </td>
-  </tr>
+### Ors4USBControl
 
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Ors4NavExpose</h3>
-      <p>
-        Herramienta de investigación orientada a la extracción y análisis automatizado de información generada en navegadores web, orientada a investigación y análisis OSINT.
-      </p>
-      <a href="https://github.com/n0rs4rt/Ors4NavExpose">
-        <img src="https://img.shields.io/badge/Ver%20repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositorio" />
-      </a>
-    </td>
+Herramienta para controlar y bloquear el acceso a dispositivos de almacenamiento USB y MTP en Windows con base de datos local de equipos.
 
-    <td width="50%" valign="top">
-      <h3>ORS4NetScan</h3>
-      <p>
-        Herramienta desarrollada en Python para escaneo de hosts, puertos y versiones. Consulta vulnerabilidades NSE, identifica fabricantes de MAC, muestra IP pública y obtiene la IP de un dominio.
-      </p>
-      <a href="https://github.com/n0rs4rt/ORS4NetScan">
-        <img src="https://img.shields.io/badge/Ver%20repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositorio" />
-      </a>
-    </td>
-  </tr>
+<a href="https://github.com/n0rs4rt/Ors4USBControl">
+  <img src="https://img.shields.io/badge/Ver%20repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositorio" />
+</a>
 
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Python_Guides</h3>
-      <p>
-        Guías tipo curso de Python desarrolladas por mí, orientadas completamente al mundo real. Pensadas para técnicos y administradores que necesitan aplicar Python en entornos IT.
-      </p>
-      <a href="https://github.com/n0rs4rt/Python_Guides">
-        <img src="https://img.shields.io/badge/Ver%20repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositorio" />
-      </a>
-    </td>
+---
 
-    <td width="50%" valign="top">
-      <h3>Ors4NetProfiles</h3>
-      <p>
-        Herramienta para analizar, extraer credenciales y gestionar perfiles de red Wi-Fi almacenadas en el sistema.
-      </p>
-      <a href="https://github.com/n0rs4rt/Ors4NetProfiles">
-        <img src="https://img.shields.io/badge/Ver%20repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositorio" />
-      </a>
-    </td>
-  </tr>
-</table>
+### Ors4Ghost
+
+Oculta archivos y carpetas de forma estructurada, haciéndolos invisibles incluso con opciones estándar del sistema.
+
+<a href="https://github.com/n0rs4rt/Ors4Ghost">
+  <img src="https://img.shields.io/badge/Ver%20repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositorio" />
+</a>
+
+---
+
+### Ors4NavExpose
+
+Herramienta de investigación orientada a la extracción y análisis automatizado de información generada en navegadores web, orientada a investigación y análisis OSINT.
+
+<a href="https://github.com/n0rs4rt/Ors4NavExpose">
+  <img src="https://img.shields.io/badge/Ver%20repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositorio" />
+</a>
+
+---
+
+### ORS4NetScan
+
+Herramienta desarrollada en Python para escaneo de hosts, puertos y versiones. Consulta vulnerabilidades NSE, identifica fabricantes de MAC, muestra IP pública y obtiene la IP de un dominio.
+
+<a href="https://github.com/n0rs4rt/ORS4NetScan">
+  <img src="https://img.shields.io/badge/Ver%20repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositorio" />
+</a>
+
+---
+
+### Python_Guides
+
+Guías tipo curso de Python desarrolladas por mí, orientadas completamente al mundo real. Pensadas para técnicos y administradores que necesitan aplicar Python en entornos IT.
+
+<a href="https://github.com/n0rs4rt/Python_Guides">
+  <img src="https://img.shields.io/badge/Ver%20repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositorio" />
+</a>
+
+---
+
+### Ors4NetProfiles
+
+Herramienta para analizar, extraer credenciales y gestionar perfiles de red Wi-Fi almacenadas en el sistema.
+
+<a href="https://github.com/n0rs4rt/Ors4NetProfiles">
+  <img src="https://img.shields.io/badge/Ver%20repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositorio" />
+</a>
