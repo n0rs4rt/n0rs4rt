@@ -104,7 +104,7 @@ También gestiono <b>ORS4TECH</b>, un espacio donde comparto contenido educativo
 
   <img src="https://img.shields.io/badge/Pandas-An%C3%A1lisis%20de%20datos-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
 
-  <img src="https://img.shields.io/badge/APIs-Integraci%C3%B3n%20y%20automatizaci%C3%B3n-0F766E?style=for-the-badge" alt="APIs" />
+  <img src="https://img.shields.io/badge/IA%20%2F%20APIs-Exploraci%C3%B3n%20e%20integraci%C3%B3n-412991?style=for-the-badge" alt="IA y APIs" />
 
   <img src="https://img.shields.io/badge/Hashing%20%26%20Crypto-Seguridad%20de%20datos-721412?style=for-the-badge&logo=openssl&logoColor=white" alt="Hashing y criptografía" />
 
