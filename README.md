@@ -131,7 +131,7 @@ También gestiono <b>ORS4TECH</b>, un espacio donde comparto contenido educativo
   </a>
   
   <a href="https://github.com/n0rs4rt/Ors4USBControl">
-    <img src="https://img.shields.io/badge/Ors4USBControl-0E7490?style=for-the-badge&logo=usb&logoColor=white" alt="Ors4USBControl" />
+    <img src="https://img.shields.io/badge/Ors4USBControl-0E7490?style=for-the-badge&logo=passbolt&logoColor=white" alt="Ors4USBControl" />
   </a>
 
   <a href="https://github.com/n0rs4rt/Ors4Ghost">
