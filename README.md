@@ -126,6 +126,10 @@ También gestiono <b>ORS4TECH</b>, un espacio donde comparto contenido educativo
     y orientados a sistemas, automatización, redes, análisis técnico y seguridad informática.
   </p>
 
+  <a href="https://github.com/n0rs4rt/ORS4SysInfo">
+  <img src="https://img.shields.io/badge/ORS4SysInfo-0E7490?style=for-the-badge&logo=codementor&logoColor=white" alt="ORS4SysInfo" />
+  </a>
+  
   <a href="https://github.com/n0rs4rt/Ors4USBControl">
     <img src="https://img.shields.io/badge/Ors4USBControl-0E7490?style=for-the-badge&logo=usb&logoColor=white" alt="Ors4USBControl" />
   </a>
