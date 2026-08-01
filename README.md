@@ -76,6 +76,55 @@ También gestiono <b>ORS4TECH</b>, un espacio donde comparto contenido educativo
 </tr>
 </table>
 
+<!--REPOSITORIOS -->
+
+
+<div align="center">
+
+  <h2>Proyectos y herramientas</h2>
+
+  <p>
+    Repositorios públicos con herramientas, scripts y proyectos en constante evolución, desarrollados principalmente en Python
+    y orientados a sistemas, automatización, redes, análisis técnico y seguridad informática.
+  </p>
+
+  <a href="https://github.com/n0rs4rt/Ors4Net-keyHunter">
+  <img src="https://img.shields.io/badge/Ors4NetkeyHunter?style=for-the-badge&logo=codementor&logoColor=white" alt="Ors4NetkeyHunter" />
+  </a>
+  
+  <a href="https://github.com/n0rs4rt/ORS4SysInfo">
+  <img src="https://img.shields.io/badge/ORS4SysInfo-0E7490?style=for-the-badge&logo=codementor&logoColor=white" alt="ORS4SysInfo" />
+  </a>
+  
+  <a href="https://github.com/n0rs4rt/Ors4USBControl">
+    <img src="https://img.shields.io/badge/Ors4USBControl-0E7490?style=for-the-badge&logo=passbolt&logoColor=white" alt="Ors4USBControl" />
+  </a>
+
+  <a href="https://github.com/n0rs4rt/Ors4Ghost">
+    <img src="https://img.shields.io/badge/Ors4Ghost-0E7490?style=for-the-badge&logo=ghostery&logoColor=white" alt="Ors4Ghost" />
+  </a>
+
+  <a href="https://github.com/n0rs4rt/Ors4NavExpose">
+    <img src="https://img.shields.io/badge/Ors4NavExpose-0E7490?style=for-the-badge&logo=duckduckgo&logoColor=white" alt="Ors4NavExpose" />
+  </a>
+
+  <a href="https://github.com/n0rs4rt/ORS4NetScan">
+    <img src="https://img.shields.io/badge/ORS4NetScan-0E7490?style=for-the-badge&logo=wireshark&logoColor=white" alt="ORS4NetScan" />
+  </a>
+
+  <a href="https://github.com/n0rs4rt/Ors4NetProfiles">
+    <img src="https://img.shields.io/badge/Ors4NetProfiles-0E7490?style=for-the-badge&logo=windows11&logoColor=white" alt="Ors4NetProfiles" />
+  </a>
+
+  <a href="https://github.com/n0rs4rt/Python_Guides">
+    <img src="https://img.shields.io/badge/Python_Guides-0E7490?style=for-the-badge&logo=python&logoColor=white" alt="Python_Guides" />
+  </a>
+
+</div>
+
+
+
+
 <!--  TECNOLOGIAS USADAS -->
 
 <div align="center">
@@ -114,48 +163,3 @@ También gestiono <b>ORS4TECH</b>, un espacio donde comparto contenido educativo
 
 </div>
 
-<!--REPOSITORIOS -->
-
-
-<div align="center">
-
-  <h2>Proyectos y herramientas</h2>
-
-  <p>
-    Repositorios públicos con herramientas, scripts y proyectos en constante evolución, desarrollados principalmente en Python
-    y orientados a sistemas, automatización, redes, análisis técnico y seguridad informática.
-  </p>
-
-  <a href="https://github.com/n0rs4rt/Ors4Net-keyHunter">
-  <img src="https://img.shields.io/badge/Ors4Net-keyHunter?style=for-the-badge&logo=codementor&logoColor=white" alt="Ors4Net-keyHunter" />
-  </a>
-  
-  <a href="https://github.com/n0rs4rt/ORS4SysInfo">
-  <img src="https://img.shields.io/badge/ORS4SysInfo-0E7490?style=for-the-badge&logo=codementor&logoColor=white" alt="ORS4SysInfo" />
-  </a>
-  
-  <a href="https://github.com/n0rs4rt/Ors4USBControl">
-    <img src="https://img.shields.io/badge/Ors4USBControl-0E7490?style=for-the-badge&logo=passbolt&logoColor=white" alt="Ors4USBControl" />
-  </a>
-
-  <a href="https://github.com/n0rs4rt/Ors4Ghost">
-    <img src="https://img.shields.io/badge/Ors4Ghost-0E7490?style=for-the-badge&logo=ghostery&logoColor=white" alt="Ors4Ghost" />
-  </a>
-
-  <a href="https://github.com/n0rs4rt/Ors4NavExpose">
-    <img src="https://img.shields.io/badge/Ors4NavExpose-0E7490?style=for-the-badge&logo=duckduckgo&logoColor=white" alt="Ors4NavExpose" />
-  </a>
-
-  <a href="https://github.com/n0rs4rt/ORS4NetScan">
-    <img src="https://img.shields.io/badge/ORS4NetScan-0E7490?style=for-the-badge&logo=wireshark&logoColor=white" alt="ORS4NetScan" />
-  </a>
-
-  <a href="https://github.com/n0rs4rt/Ors4NetProfiles">
-    <img src="https://img.shields.io/badge/Ors4NetProfiles-0E7490?style=for-the-badge&logo=windows11&logoColor=white" alt="Ors4NetProfiles" />
-  </a>
-
-  <a href="https://github.com/n0rs4rt/Python_Guides">
-    <img src="https://img.shields.io/badge/Python_Guides-0E7490?style=for-the-badge&logo=python&logoColor=white" alt="Python_Guides" />
-  </a>
-
-</div>
