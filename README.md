@@ -89,7 +89,7 @@ También gestiono <b>ORS4TECH</b>, un espacio donde comparto contenido educativo
   </p>
 
   <a href="https://github.com/n0rs4rt/Ors4Net-keyHunter">
-  <img src="https://img.shields.io/badge/Ors4NetkeyHunter?style=for-the-badge&logo=codementor&logoColor=white" alt="Ors4NetkeyHunter" />
+  <img src="https://img.shields.io/badge/Ors4Net-keyHunter?style=for-the-badge&logo=codementor&logoColor=white" alt="Ors4NetkeyHunter" />
   </a>
   
   <a href="https://github.com/n0rs4rt/ORS4SysInfo">
