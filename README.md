@@ -127,7 +127,7 @@ También gestiono <b>ORS4TECH</b>, un espacio donde comparto contenido educativo
   </p>
 
   <a href="https://github.com/n0rs4rt/Ors4Net-keyHunter">
-  <img src="https://img.shields.io/badge/ORS4SysInfo-0E7490?style=for-the-badge&logo=codementor&logoColor=white" alt="Ors4Net-keyHunter" />
+  <img src="https://img.shields.io/badge/Ors4Net-keyHunter?style=for-the-badge&logo=codementor&logoColor=white" alt="Ors4Net-keyHunter" />
   </a>
   
   <a href="https://github.com/n0rs4rt/ORS4SysInfo">
