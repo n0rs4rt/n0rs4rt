@@ -21,7 +21,7 @@
   </a>
 
    <a href="https://x.com/n0rs4rt">
-  <img src="https://github.com/n0rs4rt/n0rs4rt/blob/TU_COMMIT/assets/x.svg" alt="X" />
+  <img src="https://github.com/n0rs4rt/n0rs4rt/blob/39472ba0cd9573a80fc797e6f746ba9bd95dfd85/assets/x.svg" alt="X" />
   </a>
   
   <a href="https://www.tiktok.com/@ors4tech">
