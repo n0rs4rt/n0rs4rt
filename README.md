@@ -20,6 +20,10 @@
     <img src="https://github.com/n0rs4rt/n0rs4rt/blob/59c0b85a950c9737dff14dfab088f612d0f76452/assets/instagram.svg" alt="Instagram" />
   </a>
 
+   <a href="https://x.com/n0rs4rt">
+    <img src="https://github.com/n0rs4rt/n0rs4rt/blob/59c0b85a950c9737dff14dfab088f612d0f76452/assets/tiktok.svg" alt="X" />
+  </a>
+  
   <a href="https://www.tiktok.com/@ors4tech">
     <img src="https://github.com/n0rs4rt/n0rs4rt/blob/59c0b85a950c9737dff14dfab088f612d0f76452/assets/tiktok.svg" alt="TikTok" />
   </a>
