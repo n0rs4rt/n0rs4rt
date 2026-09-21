@@ -38,19 +38,19 @@
 <h2>Sobre mí</h2>
 
 <p>
-<b>Profesional en informática</b>, con experiencia en <b>soporte técnico, hardware, software, redes, infraestructura IT, administración de sistemas en entornos Windows y resolución de incidencias técnicas</b>.
+<b>Profesional en informática, con más de 15 años de experiencia en el área y conocimientos en soporte técnico, hardware, software, electrónica, redes, infraestructura IT, administración de sistemas en entornos Windows y resolución de incidencias técnicas.</b>
 </p>
 
 <p>
-Como parte de mi crecimiento, desarrollo herramientas en <b>Python</b> orientadas a <b>automatización, análisis de información, utilidades de sistemas, redes, OSINT y seguridad informática</b>, aplicadas a escenarios reales del área IT.
+<b>Actualmente desarrollo proyectos y herramientas en Python orientados a la automatización, análisis técnico, utilidades de sistemas y redes, ciberseguridad e inteligencia artificial, manteniendo un aprendizaje constante y explorando nuevas tecnologías y soluciones aplicadas al área IT.</b>
 </p>
 
 <p>
-Me interesa construir soluciones útiles, seguir aprendiendo y conectar con personas del área tecnológica para compartir conocimientos, colaborar en proyectos y generar nuevas conexiones profesionales.
+<b>A través de ORS4TECH, comparto parte de estos conocimientos, proyectos y experiencias mediante contenido educativo sobre informática, Python, ciberseguridad, inteligencia artificial y otras tecnologías.</b>
 </p>
 
 <p>
-También gestiono <b>ORS4TECH</b>, un espacio donde comparto contenido educativo sobre informática, Python, ciberseguridad, inteligencia artificial y buenas prácticas tecnológicas.
+<b>Me interesa seguir aprendiendo y conectar con personas del área tecnológica para compartir conocimientos, colaborar en proyectos y generar nuevas conexiones profesionales.</b>
 </p>
 
 </td>
