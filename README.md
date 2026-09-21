@@ -55,26 +55,27 @@ También gestiono <b>ORS4TECH</b>, un espacio donde comparto contenido educativo
 
 </td>
 
+<!--ENFOQUE TECNICO -->
 <td width="38%" valign="top">
 
 <h2>Enfoque técnico</h2>
 
-<img src="https://github.com/n0rs4rt/n0rs4rt/blob/aca6c443b76b4235c7333fadbda281f6e299da11/assets/python.svg" alt="Python" />
-<br><br>
+<img src="https://github.com/n0rs4rt/n0rs4rt/blob/5e1e8c701c0dd827862300037597be3196fae419/assets/enfoque/python.png" alt="Python" width="100%" >
+<br>
 
-<img src="https://github.com/n0rs4rt/n0rs4rt/blob/aca6c443b76b4235c7333fadbda281f6e299da11/assets/sistemas.svg" alt="Sistemas" />
-<br><br>
+<img src="https://github.com/n0rs4rt/n0rs4rt/blob/5e1e8c701c0dd827862300037597be3196fae419/assets/enfoque/automatizacion.png" alt="Automatizacion" width="100%" >
+<br>
 
-<img src="https://github.com/n0rs4rt/n0rs4rt/blob/aca6c443b76b4235c7333fadbda281f6e299da11/assets/redes.svg" alt="Redes" />
-<br><br>
+<img src="https://github.com/n0rs4rt/n0rs4rt/blob/5e1e8c701c0dd827862300037597be3196fae419/assets/enfoque/sistemas.png" alt="Sistemas" width="100%" >
+<br>
 
-<img src="https://github.com/n0rs4rt/n0rs4rt/blob/aca6c443b76b4235c7333fadbda281f6e299da11/assets/osint.svg" alt="OSINT" />
-<br><br>
+<img src="https://github.com/n0rs4rt/n0rs4rt/blob/5e1e8c701c0dd827862300037597be3196fae419/assets/enfoque/redes.png" alt="Redes" width="100%" >
+<br>
 
-<img src="https://github.com/n0rs4rt/n0rs4rt/blob/aca6c443b76b4235c7333fadbda281f6e299da11/assets/seguridad.svg" alt="Seguridad" />
-<br><br>
+<img src="https://github.com/n0rs4rt/n0rs4rt/blob/5e1e8c701c0dd827862300037597be3196fae419/assets/enfoque/ciberseguridad.png" alt="Ciberseguridad" width="100%" >
+<br>
 
-<img src="https://github.com/n0rs4rt/n0rs4rt/blob/aca6c443b76b4235c7333fadbda281f6e299da11/assets/Infraestructura%20IT-Soporte%20y%20sistemas-111827.svg" alt="IT" />
+<img src="https://github.com/n0rs4rt/n0rs4rt/blob/5e1e8c701c0dd827862300037597be3196fae419/assets/enfoque/IA.png" alt="Inteligencia Artificial" width="100%" >
 
 </td>
 </tr>
