@@ -21,7 +21,7 @@
   </a>
 
   <a href="https://www.instagram.com/ors4tech">
-    <img src="https://github.com/n0rs4rt/n0rs4rt/blob/59c0b85a950c9737dff14dfab088f612d0f76452/assets/instagram.svg" alt="Instagram" />
+    <img src="https://github.com/n0rs4rt/n0rs4rt/blob/3a256dd0ee4549cc278bd6cb4304609e6fcb430f/assets/instagram.svg" alt="Instagram" />
   </a>
   
   <a href="https://www.tiktok.com/@ors4tech">
