@@ -5,19 +5,19 @@
 <div align="center">
 
   <a href="https://github.com/n0rs4rt">
-    <img src="https://github.com/n0rs4rt/n0rs4rt/blob/c60a96491f52bcf1328ca66daf97a2b41fe82974/assets/github.svg" alt="GitHub" />
+    <img src="https://github.com/n0rs4rt/n0rs4rt/blob/0d32e46604d15ec0d18708fa5a5340a3af60e3fb/assets/github.svg" alt="GitHub" />
   </a>
 
   <a href="https://x.com/n0rs4rt">
-  <img src="https://github.com/n0rs4rt/n0rs4rt/blob/39472ba0cd9573a80fc797e6f746ba9bd95dfd85/assets/x.svg" alt="X" />
+  <img src="https://github.com/n0rs4rt/n0rs4rt/blob/cac122787d3b564379e932308126d4397322b435/assets/x.svg" alt="X" />
   </a>
   
   <a href="https://www.linkedin.com/in/nelson-arteaga-orasma/">
-    <img src="https://github.com/n0rs4rt/n0rs4rt/blob/c60a96491f52bcf1328ca66daf97a2b41fe82974/assets/linkedin.svg" alt="LinkedIn" />
+    <img src="https://github.com/n0rs4rt/n0rs4rt/blob/cac122787d3b564379e932308126d4397322b435/assets/linkedin.svg" alt="LinkedIn" />
   </a>
 
   <a href="https://www.youtube.com/@Ors4tech">
-    <img src="https://github.com/n0rs4rt/n0rs4rt/blob/8b2cc89b3145c3eb70171d38e0e1deaad165ff5b/assets/youtube.svg" alt="YouTube" />
+    <img src="https://github.com/n0rs4rt/n0rs4rt/blob/cac122787d3b564379e932308126d4397322b435/assets/youtube.svg" alt="YouTube" />
   </a>
 
   <a href="https://www.instagram.com/ors4tech">
@@ -25,7 +25,7 @@
   </a>
   
   <a href="https://www.tiktok.com/@ors4tech">
-    <img src="https://github.com/n0rs4rt/n0rs4rt/blob/59c0b85a950c9737dff14dfab088f612d0f76452/assets/tiktok.svg" alt="TikTok" />
+    <img src="https://github.com/n0rs4rt/n0rs4rt/blob/cac122787d3b564379e932308126d4397322b435/assets/tiktok.svg" alt="TikTok" />
   </a>
 
 </div>
