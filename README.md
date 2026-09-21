@@ -35,7 +35,10 @@
   <tr>
     <td width="62%" valign="top">
 
-<h2>Sobre mí</h2>
+<h2>
+  <img src="https://github.com/n0rs4rt/n0rs4rt/blob/ab4f0e4d70a2e821dcfab6f518f9e177d27b75d6/assets/Sobre%20mi.png" alt="" width="64" align="middle">
+  Sobre mí
+</h2>
 
 <p>
 <b>Profesional en informática, con más de 15 años de experiencia en el área y conocimientos en soporte técnico, hardware, software, electrónica, redes, infraestructura IT, administración de sistemas en entornos Windows y resolución de incidencias técnicas.</b>
