@@ -1,5 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="72" height="40" viewBox="0 0 72 40">
+<svg xmlns="http://www.w3.org/2000/svg" width="72" height="40" viewBox="0 0 72 40" role="img" aria-label="X">
 <rect x="0.75" y="0.75" width="70.5" height="38.5" rx="3" fill="#05070a" stroke="#4b5563" stroke-width="1.5"/>
-<g><path fill="white" d="M18.2 14.4 26.4 5h-2l-7.1 8.2L11.7 5H6l8.5 11.5L6.6 27h2l7.5-8.7 6.2 8.7h5.7l-8.8-12.6ZM16.9 17l-.9-1.2L9.2 6.5h1.5l5.5 7.5.9 1.2 6.9 9.4h-1.5L16.9 17Z"/></g>
-
+<g transform="translate(18,0)">
+<path fill="white" d="M18.2 14.4 26.4 5h-2l-7.1 8.2L11.7 5H6l8.5 11.5L6.6 27h2l7.5-8.7 6.2 8.7h5.7l-8.8-12.6ZM16.9 17l-.9-1.2L9.2 6.5h1.5l5.5 7.5.9 1.2 6.9 9.4h-1.5L16.9 17Z"/>
+</g>
 </svg>
