@@ -30,55 +30,53 @@
 
 </div>
 
-<!-- SOBRE MI-->
-<table>
-  <tr>
-    <td width="62%" valign="top">
+<!-- SOBRE MÍ -->
+<!-- SOBRE MÍ -->
+<table width="100%" cellpadding="10" cellspacing="0">
+<tr>
+<td>
 
-<h2>
-  <img src="https://github.com/n0rs4rt/n0rs4rt/blob/ab4f0e4d70a2e821dcfab6f518f9e177d27b75d6/assets/Sobre%20mi.png" alt="" width="64" align="middle">
-  Sobre mí
-</h2>
+<img src="https://github.com/n0rs4rt/n0rs4rt/blob/ab4f0e4d70a2e821dcfab6f518f9e177d27b75d6/assets/Sobre%20mi.png" alt="Sobre mí" width="90" align="left" hspace="12" vspace="2">
+
+<h3>Sobre mí</h3>
 
 <p>
-<b>Profesional en informática, con más de 15 años de experiencia en el área y conocimientos en soporte técnico, hardware, software, electrónica, redes, infraestructura IT, administración de sistemas en entornos Windows y resolución de incidencias técnicas.</b>
+Profesional en informática, con más de 15 años de experiencia en el área y conocimientos en soporte técnico, hardware, software, electrónica, redes, infraestructura IT, administración de sistemas en entornos Windows y resolución de incidencias técnicas.
 </p>
 
 <p>
-<b>Actualmente desarrollo proyectos y herramientas en Python orientados a la automatización, análisis técnico, utilidades de sistemas y redes, ciberseguridad e inteligencia artificial, manteniendo un aprendizaje constante y explorando nuevas tecnologías y soluciones aplicadas al área IT.</b>
+Actualmente desarrollo proyectos y herramientas en Python orientados a la automatización, análisis técnico, utilidades de sistemas y redes, ciberseguridad e inteligencia artificial, manteniendo un aprendizaje constante y explorando nuevas tecnologías y soluciones aplicadas al área IT.
 </p>
 
 <p>
-<b>A través de ORS4TECH, comparto parte de estos conocimientos, proyectos y experiencias mediante contenido educativo sobre informática, Python, ciberseguridad, inteligencia artificial y otras tecnologías.</b>
+A través de ORS4TECH, comparto parte de estos conocimientos, proyectos y experiencias mediante contenido educativo sobre informática, Python, ciberseguridad, inteligencia artificial y otras tecnologías.
 </p>
 
 <p>
-<b>Me interesa seguir aprendiendo y conectar con personas del área tecnológica para compartir conocimientos, colaborar en proyectos y generar nuevas conexiones profesionales.</b>
+Me interesa seguir aprendiendo y conectar con personas del área tecnológica para compartir conocimientos, colaborar en proyectos y generar nuevas conexiones profesionales.
 </p>
+
+<br clear="left">
 
 </td>
-
-<!--ENFOQUE TECNICO -->
-<td width="38%" valign="top">
+</tr>
+</table>
+<!-- ENFOQUE TÉCNICO -->
+<table width="100%" cellpadding="10" cellspacing="0">
+<tr>
+<td>
 
 <h2>Enfoque técnico</h2>
 
-<img src="https://github.com/n0rs4rt/n0rs4rt/blob/5e1e8c701c0dd827862300037597be3196fae419/assets/enfoque/python.png" alt="Python" width="100%" >
+<p align="center">
+<img src="https://github.com/n0rs4rt/n0rs4rt/blob/5e1e8c701c0dd827862300037597be3196fae419/assets/enfoque/python.png" alt="Python" width="31%">
+<img src="https://github.com/n0rs4rt/n0rs4rt/blob/5e1e8c701c0dd827862300037597be3196fae419/assets/enfoque/automatizacion.png" alt="Automatización" width="31%">
+<img src="https://github.com/n0rs4rt/n0rs4rt/blob/5e1e8c701c0dd827862300037597be3196fae419/assets/enfoque/sistemas.png" alt="Sistemas" width="31%">
 <br>
-
-<img src="https://github.com/n0rs4rt/n0rs4rt/blob/5e1e8c701c0dd827862300037597be3196fae419/assets/enfoque/automatizacion.png" alt="Automatizacion" width="100%" >
-<br>
-
-<img src="https://github.com/n0rs4rt/n0rs4rt/blob/5e1e8c701c0dd827862300037597be3196fae419/assets/enfoque/sistemas.png" alt="Sistemas" width="100%" >
-<br>
-
-<img src="https://github.com/n0rs4rt/n0rs4rt/blob/5e1e8c701c0dd827862300037597be3196fae419/assets/enfoque/redes.png" alt="Redes" width="100%" >
-<br>
-
-<img src="https://github.com/n0rs4rt/n0rs4rt/blob/5e1e8c701c0dd827862300037597be3196fae419/assets/enfoque/ciberseguridad.png" alt="Ciberseguridad" width="100%" >
-<br>
-
-<img src="https://github.com/n0rs4rt/n0rs4rt/blob/5e1e8c701c0dd827862300037597be3196fae419/assets/enfoque/IA.png" alt="Inteligencia Artificial" width="100%" >
+<img src="https://github.com/n0rs4rt/n0rs4rt/blob/5e1e8c701c0dd827862300037597be3196fae419/assets/enfoque/redes.png" alt="Redes" width="31%">
+<img src="https://github.com/n0rs4rt/n0rs4rt/blob/5e1e8c701c0dd827862300037597be3196fae419/assets/enfoque/ciberseguridad.png" alt="Ciberseguridad" width="31%">
+<img src="https://github.com/n0rs4rt/n0rs4rt/blob/5e1e8c701c0dd827862300037597be3196fae419/assets/enfoque/IA.png" alt="Inteligencia Artificial" width="31%">
+</p>
 
 </td>
 </tr>
