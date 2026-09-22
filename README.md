@@ -84,54 +84,33 @@
 </tr>
 </table>
 
-<!--REPOSITORIOS -->
+<!-- PROYECTOS Y HERRAMIENTAS -->
+<table width="100%" cellpadding="10" cellspacing="0">
+<tr>
+<td>
 
+<p>
+<img src="./assets/proyectos/proyectos.png" alt="" width="58" align="left" hspace="10" vspace="0">
+<a href="https://github.com/n0rs4rt?tab=repositories">
+<img src="https://github.com/n0rs4rt/n0rs4rt/blob/05850b8c35a17ce67e40fd784ebe8dbac3fb3905/assets/proyectos/todos%20proyectos.png" alt="Ver todos los proyectos" width="150" align="right" hspace="0" vspace="0">
+</a>
+<strong>Proyectos y herramientas</strong><br>
+Herramientas y proyectos propios desarrollados principalmente en Python, orientados a sistemas, automatización, redes, análisis técnico y ciberseguridad.
+</p>
 
-<div align="center">
+<p align="center">
+<a href="https://github.com/n0rs4rt/Ors4Net-keyHunter"><img src="" alt="ORS4NET KEYHUNTER" width="31%"></a>
+<a href="https://github.com/n0rs4rt/ORS4SysInfo"><img src="./assets/proyectos/ors4sysinfo.png" alt="ORS4SysInfo" width="31%"></a>
+<a href="https://github.com/n0rs4rt/Ors4USBControl"><img src="./assets/proyectos/ors4usbcontrol.png" alt="Ors4USBControl" width="31%"></a>
+<br>
+<a href="https://github.com/n0rs4rt/Ors4Ghost"><img src="./assets/proyectos/ors4ghost.png" alt="Ors4Ghost" width="31%"></a>
+<a href="https://github.com/n0rs4rt/Ors4NavExpose"><img src="https://github.com/n0rs4rt/n0rs4rt/blob/c8ee0186835dff073f23622dd0e802c812a041db/assets/proyectos/ORS4NavExpose.png" alt="Ors4NavExpose" width="31%"></a>
+<a href="https://github.com/n0rs4rt/ORS4NetScan"><img src="https://github.com/n0rs4rt/n0rs4rt/blob/d1cbe9c8a0d72ec5d4825b3a28dea5fc73148c01/assets/proyectos/ors4netscam.png" alt="ORS4NetScan" width="31%"></a>
+</p>
 
-  <h2>Proyectos y herramientas</h2>
-
-  <p>
-    Repositorios públicos con herramientas, scripts y proyectos en constante evolución, desarrollados principalmente en Python
-    y orientados a sistemas, automatización, redes, análisis técnico y seguridad informática.
-  </p>
-
-  <a href="https://github.com/n0rs4rt/Ors4Net-keyHunter">
-  <img src="https://img.shields.io/badge/ORS4NET_KEYHUNTER-0E7490?style=for-the-badge&logo=wikiquote&logoColor=white" alt="ORS4NET KEYHUNTER"/>
-  </a>
-  
-  <a href="https://github.com/n0rs4rt/ORS4SysInfo">
-  <img src="https://img.shields.io/badge/ORS4SysInfo-0E7490?style=for-the-badge&logo=codementor&logoColor=white" alt="ORS4SysInfo" />
-  </a>
-  
-  <a href="https://github.com/n0rs4rt/Ors4USBControl">
-    <img src="https://img.shields.io/badge/Ors4USBControl-0E7490?style=for-the-badge&logo=passbolt&logoColor=white" alt="Ors4USBControl" />
-  </a>
-
-  <a href="https://github.com/n0rs4rt/Ors4Ghost">
-    <img src="https://img.shields.io/badge/Ors4Ghost-0E7490?style=for-the-badge&logo=ghostery&logoColor=white" alt="Ors4Ghost" />
-  </a>
-
-  <a href="https://github.com/n0rs4rt/Ors4NavExpose">
-    <img src="https://img.shields.io/badge/Ors4NavExpose-0E7490?style=for-the-badge&logo=duckduckgo&logoColor=white" alt="Ors4NavExpose" />
-  </a>
-
-  <a href="https://github.com/n0rs4rt/ORS4NetScan">
-    <img src="https://img.shields.io/badge/ORS4NetScan-0E7490?style=for-the-badge&logo=wireshark&logoColor=white" alt="ORS4NetScan" />
-  </a>
-
-  <a href="https://github.com/n0rs4rt/Ors4NetProfiles">
-    <img src="https://img.shields.io/badge/Ors4NetProfiles-0E7490?style=for-the-badge&logo=windows11&logoColor=white" alt="Ors4NetProfiles" />
-  </a>
-
-  <a href="https://github.com/n0rs4rt/Python_Guides">
-    <img src="https://img.shields.io/badge/Python_Guides-0E7490?style=for-the-badge&logo=python&logoColor=white" alt="Python_Guides" />
-  </a>
-
-</div>
-
-
-
+</td>
+</tr>
+</table>
 
 <!--  TECNOLOGIAS USADAS -->
 
