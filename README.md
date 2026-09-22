@@ -99,9 +99,9 @@ Herramientas y proyectos propios desarrollados principalmente en Python, orienta
 </p>
 
 <p align="center">
-<a href="https://github.com/n0rs4rt/Ors4Net-keyHunter"><img src="" alt="ORS4NET KEYHUNTER" width="31%"></a>
-<a href="https://github.com/n0rs4rt/ORS4SysInfo"><img src="./assets/proyectos/ors4sysinfo.png" alt="ORS4SysInfo" width="31%"></a>
-<a href="https://github.com/n0rs4rt/Ors4USBControl"><img src="./assets/proyectos/ors4usbcontrol.png" alt="Ors4USBControl" width="31%"></a>
+<a href="https://github.com/n0rs4rt/Ors4Net-keyHunter"><img src="https://github.com/n0rs4rt/n0rs4rt/blob/ddc83cd8e86b2859b579b2a01d513e2dd2eb7171/assets/proyectos/ORS4NET.png" alt="ORS4NET KEYHUNTER" width="31%"></a>
+<a href="https://github.com/n0rs4rt/ORS4SysInfo"><img src="https://github.com/n0rs4rt/n0rs4rt/blob/3f52ec920303a391eed50a670004fda93b6d2138/assets/proyectos/ORS4SysInfo.png" alt="ORS4SysInfo" width="31%"></a>
+<a href="https://github.com/n0rs4rt/Ors4USBControl"><img src="https://github.com/n0rs4rt/n0rs4rt/blob/6feaca1365dfba3aea10cf392643acdc0d1945db/assets/proyectos/Ors4USBControl.png" alt="Ors4USBControl" width="31%"></a>
 <br>
 <a href="https://github.com/n0rs4rt/Ors4Ghost"><img src="https://github.com/n0rs4rt/n0rs4rt/blob/674e46ac627a61a5022ce9dcafc30af2c867c972/assets/proyectos/ORS4Ghost.png" width="31%"></a>
 <a href="https://github.com/n0rs4rt/Ors4NavExpose"><img src="https://github.com/n0rs4rt/n0rs4rt/blob/55818523198de02e185fc790e7875de8c78fea2d/assets/proyectos/ORS4NavExpose.png" alt="Ors4NavExpose" width="31%"></a>
