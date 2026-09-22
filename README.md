@@ -103,8 +103,8 @@ Herramientas y proyectos propios desarrollados principalmente en Python, orienta
 <a href="https://github.com/n0rs4rt/ORS4SysInfo"><img src="./assets/proyectos/ors4sysinfo.png" alt="ORS4SysInfo" width="31%"></a>
 <a href="https://github.com/n0rs4rt/Ors4USBControl"><img src="./assets/proyectos/ors4usbcontrol.png" alt="Ors4USBControl" width="31%"></a>
 <br>
-<a href="https://github.com/n0rs4rt/Ors4Ghost"><img src="./assets/proyectos/ors4ghost.png" alt="Ors4Ghost" width="31%"></a>
-<a href="https://github.com/n0rs4rt/Ors4NavExpose"><img src="https://github.com/n0rs4rt/n0rs4rt/blob/c8ee0186835dff073f23622dd0e802c812a041db/assets/proyectos/ORS4NavExpose.png" alt="Ors4NavExpose" width="31%"></a>
+<a href="https://github.com/n0rs4rt/Ors4Ghost"><img src="https://github.com/n0rs4rt/n0rs4rt/blob/674e46ac627a61a5022ce9dcafc30af2c867c972/assets/proyectos/ORS4Ghost.png" width="31%"></a>
+<a href="https://github.com/n0rs4rt/Ors4NavExpose"><img src="https://github.com/n0rs4rt/n0rs4rt/blob/55818523198de02e185fc790e7875de8c78fea2d/assets/proyectos/ORS4NavExpose.png" alt="Ors4NavExpose" width="31%"></a>
 <a href="https://github.com/n0rs4rt/ORS4NetScan"><img src="https://github.com/n0rs4rt/n0rs4rt/blob/d1cbe9c8a0d72ec5d4825b3a28dea5fc73148c01/assets/proyectos/ors4netscam.png" alt="ORS4NetScan" width="31%"></a>
 </p>
 
