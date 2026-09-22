@@ -31,7 +31,6 @@
 </div>
 
 <!-- SOBRE MÍ -->
-<!-- SOBRE MÍ -->
 <table width="100%" cellpadding="10" cellspacing="0">
 <tr>
 <td>
@@ -61,21 +60,24 @@ Me interesa seguir aprendiendo y conectar con personas del área tecnológica pa
 </td>
 </tr>
 </table>
+
+
 <!-- ENFOQUE TÉCNICO -->
 <table width="100%" cellpadding="10" cellspacing="0">
 <tr>
 <td>
 
-<h2>Enfoque técnico</h2>
+<h3>Enfoque técnico</h3>
 
 <p align="center">
-<img src="https://github.com/n0rs4rt/n0rs4rt/blob/5e1e8c701c0dd827862300037597be3196fae419/assets/enfoque/python.png" alt="Python" width="31%">
-<img src="https://github.com/n0rs4rt/n0rs4rt/blob/5e1e8c701c0dd827862300037597be3196fae419/assets/enfoque/automatizacion.png" alt="Automatización" width="31%">
-<img src="https://github.com/n0rs4rt/n0rs4rt/blob/5e1e8c701c0dd827862300037597be3196fae419/assets/enfoque/sistemas.png" alt="Sistemas" width="31%">
+<img src="https://github.com/n0rs4rt/n0rs4rt/blob/5e1e8c701c0dd827862300037597be3196fae419/assets/enfoque/python.png" alt="Python" width="48%">
+<img src="https://github.com/n0rs4rt/n0rs4rt/blob/5e1e8c701c0dd827862300037597be3196fae419/assets/enfoque/automatizacion.png" alt="Automatización" width="48%">
 <br>
-<img src="https://github.com/n0rs4rt/n0rs4rt/blob/5e1e8c701c0dd827862300037597be3196fae419/assets/enfoque/redes.png" alt="Redes" width="31%">
-<img src="https://github.com/n0rs4rt/n0rs4rt/blob/5e1e8c701c0dd827862300037597be3196fae419/assets/enfoque/ciberseguridad.png" alt="Ciberseguridad" width="31%">
-<img src="https://github.com/n0rs4rt/n0rs4rt/blob/5e1e8c701c0dd827862300037597be3196fae419/assets/enfoque/IA.png" alt="Inteligencia Artificial" width="31%">
+<img src="https://github.com/n0rs4rt/n0rs4rt/blob/5e1e8c701c0dd827862300037597be3196fae419/assets/enfoque/sistemas.png" alt="Sistemas" width="48%">
+<img src="https://github.com/n0rs4rt/n0rs4rt/blob/5e1e8c701c0dd827862300037597be3196fae419/assets/enfoque/redes.png" alt="Redes" width="48%">
+<br>
+<img src="https://github.com/n0rs4rt/n0rs4rt/blob/5e1e8c701c0dd827862300037597be3196fae419/assets/enfoque/ciberseguridad.png" alt="Ciberseguridad" width="48%">
+<img src="https://github.com/n0rs4rt/n0rs4rt/blob/5e1e8c701c0dd827862300037597be3196fae419/assets/enfoque/IA.png" alt="Inteligencia Artificial" width="48%">
 </p>
 
 </td>
