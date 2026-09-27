@@ -85,6 +85,10 @@ Herramientas y proyectos propios desarrollados principalmente en Python, orienta
 
 <p align="center">
 
+<a href="https://github.com/n0rs4rt/ORS4VeilCrypt">
+<img src="https://github.com/n0rs4rt/n0rs4rt/blob/d7c71226a32ec42c7a4bc8feccf909ee3677ed7d/assets/proyectos/ORS4_VeilCrypt.png" alt="ORS4VeilCrypt" width="31%">
+</a>
+
 <a href="https://github.com/n0rs4rt/Ors4Net-keyHunter">
 <img src="https://github.com/n0rs4rt/n0rs4rt/blob/ddc83cd8e86b2859b579b2a01d513e2dd2eb7171/assets/proyectos/ORS4NET.png" alt="ORS4NET KEYHUNTER" width="31%">
 </a>
@@ -93,11 +97,11 @@ Herramientas y proyectos propios desarrollados principalmente en Python, orienta
 <img src="https://github.com/n0rs4rt/n0rs4rt/blob/3f52ec920303a391eed50a670004fda93b6d2138/assets/proyectos/ORS4SysInfo.png" alt="ORS4SysInfo" width="31%">
 </a>
 
+<br>
+
 <a href="https://github.com/n0rs4rt/Ors4USBControl">
 <img src="https://github.com/n0rs4rt/n0rs4rt/blob/6feaca1365dfba3aea10cf392643acdc0d1945db/assets/proyectos/Ors4USBControl.png" alt="Ors4USBControl" width="31%">
 </a>
-
-<br>
 
 <a href="https://github.com/n0rs4rt/Ors4Ghost">
 <img src="https://github.com/n0rs4rt/n0rs4rt/blob/674e46ac627a61a5022ce9dcafc30af2c867c972/assets/proyectos/ORS4Ghost.png" alt="ORS4Ghost" width="31%">
@@ -105,10 +109,6 @@ Herramientas y proyectos propios desarrollados principalmente en Python, orienta
 
 <a href="https://github.com/n0rs4rt/Ors4NavExpose">
 <img src="https://github.com/n0rs4rt/n0rs4rt/blob/55818523198de02e185fc790e7875de8c78fea2d/assets/proyectos/ORS4NavExpose.png" alt="Ors4NavExpose" width="31%">
-</a>
-
-<a href="https://github.com/n0rs4rt/ORS4NetScan">
-<img src="https://github.com/n0rs4rt/n0rs4rt/blob/d1cbe9c8a0d72ec5d4825b3a28dea5fc73148c01/assets/proyectos/ors4netscam.png" alt="ORS4NetScan" width="31%">
 </a>
 
 </p>
