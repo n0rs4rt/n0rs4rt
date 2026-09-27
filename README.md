@@ -31,7 +31,7 @@
 </div>
 
 <!-- SOBRE MÍ -->
-
+<br>
 <img src="https://github.com/n0rs4rt/n0rs4rt/blob/ab4f0e4d70a2e821dcfab6f518f9e177d27b75d6/assets/Sobre%20mi.png" alt="Sobre mí" width="90" align="left" hspace="12" vspace="2">
 
 <h3>Sobre mí</h3>
@@ -56,30 +56,19 @@ Me interesa seguir aprendiendo y conectar con personas del área tecnológica pa
 
 
 <!-- ENFOQUE TÉCNICO -->
-<table width="100%" cellpadding="10" cellspacing="0">
-<tr>
-<td>
 
 <h3>Enfoque técnico</h3>
 
 <p align="center">
-<img src="https://github.com/n0rs4rt/n0rs4rt/blob/806919cdf1c29a6662678b998b511758ac970f83/assets/enfoque/enfoque.png" alt="Python" width="70%">
-
+<img src="https://github.com/n0rs4rt/n0rs4rt/blob/806919cdf1c29a6662678b998b511758ac970f83/assets/enfoque/enfoque.png" alt="Enfoque técnico" width="70%">
 </p>
-
-</td>
-</tr>
-</table>
 
 
 <!-- PROYECTOS Y HERRAMIENTAS -->
-<table width="100%" cellpadding="10" cellspacing="0">
-<tr>
-<td>
 
 <p>
 <img src="./assets/proyectos/proyectos.png" alt="" width="58" align="left" hspace="10" vspace="0">
-<strong>Proyectos y herramientas</strong>
+<h3>Proyectos y herramientas</h3>
 </p>
 
 <br clear="left">
@@ -123,10 +112,6 @@ Herramientas y proyectos propios desarrollados principalmente en Python, orienta
 </a>
 
 </p>
-
-</td>
-</tr>
-</table>
 
 
 <!--  TECNOLOGIAS USADAS -->
