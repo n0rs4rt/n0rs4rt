@@ -31,9 +31,6 @@
 </div>
 
 <!-- SOBRE MÍ -->
-<table width="100%" cellpadding="10" cellspacing="0">
-<tr>
-<td>
 
 <img src="https://github.com/n0rs4rt/n0rs4rt/blob/ab4f0e4d70a2e821dcfab6f518f9e177d27b75d6/assets/Sobre%20mi.png" alt="Sobre mí" width="90" align="left" hspace="12" vspace="2">
 
@@ -57,10 +54,6 @@ Me interesa seguir aprendiendo y conectar con personas del área tecnológica pa
 
 <br clear="left">
 
-</td>
-</tr>
-</table>
-
 
 <!-- ENFOQUE TÉCNICO -->
 <table width="100%" cellpadding="10" cellspacing="0">
@@ -78,7 +71,7 @@ Me interesa seguir aprendiendo y conectar con personas del área tecnológica pa
 </tr>
 </table>
 
-<!-- PROYECTOS Y HERRAMIENTAS -->
+
 <!-- PROYECTOS Y HERRAMIENTAS -->
 <table width="100%" cellpadding="10" cellspacing="0">
 <tr>
