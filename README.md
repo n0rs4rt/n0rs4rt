@@ -52,9 +52,9 @@ A través de ORS4TECH, comparto parte de estos conocimientos, proyectos y experi
 Me interesa seguir aprendiendo y conectar con personas del área tecnológica para compartir conocimientos, colaborar en proyectos y generar nuevas conexiones profesionales.
 </p>
 
-<br clear="left">
+<br>
 
-
+<hr>
 <!-- ENFOQUE TÉCNICO -->
 
 <h3>Enfoque técnico</h3>
@@ -65,7 +65,7 @@ Me interesa seguir aprendiendo y conectar con personas del área tecnológica pa
 
 
 <!-- PROYECTOS Y HERRAMIENTAS -->
-
+<hr>
 <p>
 <img src="./assets/proyectos/proyectos.png" alt="" width="58" align="left" hspace="10" vspace="0">
 <h3>Proyectos y herramientas</h3>
@@ -115,10 +115,12 @@ Herramientas y proyectos propios desarrollados principalmente en Python, orienta
 
 
 <!--  TECNOLOGIAS USADAS -->
-
+<hr>
 <div align="center">
 
-  <h2>Tecnologías presentes en mis proyectos</h2>
+  <div align="center">
+
+  <h3>Tecnologías presentes en mis proyectos</h3>
 
   <p>
     Lenguajes, herramientas, formatos y recursos que utilizo en mis proyectos personales, scripts y utilidades orientadas a sistemas, automatización y análisis técnico.
