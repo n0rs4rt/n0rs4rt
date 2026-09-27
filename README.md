@@ -70,7 +70,7 @@ Me interesa seguir aprendiendo y conectar con personas del área tecnológica pa
 <h3>Enfoque técnico</h3>
 
 <p align="center">
-<img src="https://github.com/n0rs4rt/n0rs4rt/blob/806919cdf1c29a6662678b998b511758ac970f83/assets/enfoque/enfoque.png" alt="Python" width="100%">
+<img src="https://github.com/n0rs4rt/n0rs4rt/blob/806919cdf1c29a6662678b998b511758ac970f83/assets/enfoque/enfoque.png" alt="Python" width="70%">
 
 </p>
 
